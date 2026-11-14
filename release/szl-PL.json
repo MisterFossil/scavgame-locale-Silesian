@@ -1681,7 +1681,7 @@
         "runsetamputee": "Czterokrotny amputant",
         "runsetamputeedsc": "Jakiś okropny eksperyment zostawiōł cie bez żodnych kōńczyn. Przynajmniej mŏsz zajebiste drewniane nogi i rynce!",
         "runsetimmortalsnail": "Nieśmiertelny ślimak",
-        "runsetimmortalsnaildsc": "Jakŏś niepojęta siła szczegōlnie sie tobōm zainteresowała i powoli zmierzŏ w twojõ stronã za kożdym razem, kej niy śpisz. Niy daj sie jej dotknōńć.",
+        "runsetimmortalsnaildsc": "Jakŏś niepojęta siła szczegōlnie sie tobōm zainteresowała i poleku zmierzŏ w twojõ stronã za kożdym razem, kej niy śpisz. Niy daj sie jej dotknōńć.",
         "rundivrunwide": "Sztalōnki postępu",
         "rundivlayer": "Sztalōnki świata",
         "rundivplayer": "Sztalōnki gracza",
@@ -1801,7 +1801,7 @@
         "gamesetmarksmanunload": "(Ino Marksman) Wyrzuć magazynek",
         "copy": "Kopiuj do schowka",
         "paste": "Wklej ze schowka",
-        "descend": "Zejdź niżyj",
+        "descend": "W głymbinã",
         "unarmed": "Brak",
         "container": "Pojymnik",
         "containermaxweight": "Pojymność",
@@ -1966,7 +1966,7 @@
         "start": "Start",
         "quit": "Wyjdź",
         "back": "Wstecz",
-        "basicscourse": "Szkolenie podstawowe",
+        "basicscourse": "Szkolenie elementarne",
         "firstaidcourse": "Kurs pierwszej pōmocy",
         "craftingcourse": "Kurs majstrowaniŏ",
         "movementcourse": "Kurs poruszaniŏ",
@@ -1975,7 +1975,7 @@
         "movementcourseunlock": "Dotrzyj do trzecij warstwy, coby ôdblokować",
         "tutorialspecieslock": "Możnŏ wejść ino gatunkiem Eksperyment",
         "sandbox": "Piaskownica",
-        "escapecourse": "ALARM: DROBNE NARUSZYNIE",
+        "escapecourse": "ALARM: DROBNY FERBRYCH",
         "escapecourse1": "Wyglōndŏ na to, że prōbujesz uciec. Proszã zachować spokōj, pokiela ochrona ci niy pōmoże.",
         "escapecourse2": "Dziynkujemy za współpracã.",
         "tutorial": "Samouczek",
@@ -2187,10 +2187,10 @@
         "healthchipradalert3": "PRZISPIESZ\nKROKU",
         "tutbasic1": "Witōmy na ôstatnim kursie powtōrkowym.",
         "tutbasic2": "Przejdymy bez wszyjskie podstawy, kere musisz znać przed następnym eksperymentym, w kerym weźmiesz udział.",
-        "tutbasic3": "Proszã podejść do Urządzeniŏ Treningowego. [SPACYJŎ]",
-        "tutbasic4": "Jeszcze rŏz. [SPACYJŎ]",
+        "tutbasic3": "Proszã podejść do Urządzeniŏ Treningowego. [A]",
+        "tutbasic4": "Jeszcze rŏz. [D]",
         "tutbasic5": "Umisz chodzić. Imponujōnce!",
-        "tutbasic6": "[SPACE], coby skoczyć. Przytrzim, coby skoczyć wyżyj. Możesz tyż ôdbijać sie ôd ścian.",
+        "tutbasic6": "[SPACYJŎ], coby skoczyć. Przytrzim, coby skoczyć wyżyj. Możesz tyż ôdbijać sie ôd ścian.",
         "tutbasic7": "Dostań sie do Urządzeniŏ Treningowego.",
         "tutbasic8": "Zwinne z ciebie stworzōnko, co?",
         "tutbasic9": "Terŏz przejdymy do trzymaniŏ rzeczy.",
@@ -2199,7 +2199,7 @@
         "tutbasic12": "Fajnie. Możesz tyż użyć przedmiotu z inwyntŏrza. Przeciōngnij go na środek, coby użyć i iść dalij.",
         "tutbasic13": "Smakuje niesamowicie, co? Powiniyneś terŏz zjeś to w całości.",
         "tutbasic13fail": "Chciołech, żebyś to podniōsł, a niy zjŏd... Rany, całe narŏz..?",
-        "tutbasic14": "Naprŏwda BYŁEŚ głodny...",
+        "tutbasic14": "Naprŏwda BYŁUŚ głodnu...",
         "tutbasic15": "Sprōbujmy czegoś inkszego. Tukej mŏsz kolejnõ rzecz do zabawy.",
         "tutbasic16": "Mŏsz sześć głōwnych slotōw na rzeczy. Dwie rynce, jednã gymbã, trzi sloty na plecach.",
         "tutbasic17": "Włōż to do jednyj ze swoich rōnk.",
@@ -2318,7 +2318,7 @@
         "tutaid55": "Głōwnym zagrożyniym je ryzyko udaru, jak nadciśnienie stanie sie za mocne. Niy pozwōl, coby ciśnienie przekroczyło 180/120.",
         "tutaid56": "Wyczujesz dużo z tego z doświadczeniem. Dostaniesz terŏz trocha zapasōw. Szczeknij na mie [B], kej bydziesz gotowy iść dalij.",
         "tutaid57": "Przijrzymy sie terŏz jeszcze porze innych urazōw.",
-        "tutaid58": "Zwichnięcia to częsty uraz, zwykle po złych upadkach. Zwichniynte kōńczyny mocno bolōm przy używaniu.",
+        "tutaid58": "Zwichnięcia to częsty uraz, zwykle po ciynżkich upadkach. Zwichniynte kōńczyny mocno bolōm przy używaniu.",
         "tutaid59": "Możesz nastawić zwichnięcia rynkōm. Sprōbuj.",
         "tutaid60": "Musisz wbić staw nazŏd na miejsce. Nabierz rozpędu rynkōm, a potym kliknij [LEWYM KLIKYM] nad stawym, coby mocno uderzyć.",
         "tutaid61": "Złamania sōm podane do zwichnięć, ale poważniejsze i potrzebujōm czasu abo specjalnych nŏrzynzi do naprawy.",
@@ -2332,7 +2332,7 @@
         "tutaid69": "Opioidy szybko zmniyjszajōm bōl w całym ciele po użyciu. Wstrziknij całość i zobŏcz.",
         "tutaid70": "BU!",
         "tutaid71": "Szybko przeszło, co niy?",
-        "tutaid72": "Uważoj z opioidami — łatwo je przedawkować abo wpaść w głōd narkotykowy potym. Nalokson i naltrekson pōmŏgajōm przy nadużywaniu opiatōw.",
+        "tutaid72": "Dej pozōr na opioidy — łatwo je przedawkować abo wpaść w głōd narkotykowy potym. Nalokson i naltrekson pōmŏgajōm przy nadużywaniu opiatōw.",
         "tutaid73": "To kōńczy Kurs Pierwszej Pōmocy. Moglibymy omōwić wiyncyj, ale wierzymy, że bezpiecznie rozkminisz inne dolegliwości. Możesz wrōcić do swojego pokoju.",
         "tutcraft1": "Witōmy na Kursie Majstrowaniŏ. Dzisiej omōwimy szczegōły zdobywaniŏ przedmiotōw i pokażemy typowe sposoby roboty.",
         "tutcraft2": "Prawie wszyjsko, co widzisz, to prawdziwŏ materyjŏ, a niy śmieci.",
@@ -2356,7 +2356,7 @@
         "tutcraft18": "Możesz robić receptury do 3 INT wyższe niż twoje obecne INT, ze stopniowo gorszymi skutkami.",
         "tutcraft19": "1 INT wyżyj daje 50% szans na uszkodzynie przedmiotu. 2 INT — 50% szans na całkowite zmarnowanie materyjołu, a przy 3 INT lekko sie tyż ranisz.",
         "tutcraft20": "Mŏsz dość INT, coby zrobić terŏz maczetã. Zrób to.",
-        "tutcraft21": "Sprytny z ciebie gość, co? Możesz dalij ulepszać nŏrzynzia np. stopami tytanu. Robienie nŏrzynzi do kopaniŏ tyż sie przidŏwŏ.",
+        "tutcraft21": "Sprytny z ciebie ziutek, co? Możesz dalij ulepszać nŏrzynzia np. stopami tytanu. Robienie nŏrzynzi do kopaniŏ tyż sie przidŏwŏ.",
         "tutcraft22": "Przejdymy do receptur z jedzyniym. Wiynkszość z nich wymŏgŏ ôgniska.",
         "tutcraft23": "Przegotuj wodã gruntowõ na czystõ wodã. Bydziesz potrzebować manierki do zebraniŏ jej i ôgniska do przegotowaniŏ.",
         "tutcraft24": "Dobra robota.",
@@ -3753,8 +3753,8 @@
                 "Ałł... <limb>...",
                 "<limb> strasznie boli...",
                 "Auć... <limb>!",
-                "Gah! Szlag! <limb>!",
-                "Szlag... <limb>!",
+                "Gah! Jerōnie! <limb>!",
+                "Gizd... <limb>!",
                 "<limb>...",
                 "<limb> mie nawalŏ...",
                 "To boli... Auć... <limb>!",
@@ -3783,9 +3783,9 @@
             "bigpain": [
                 "AŁA!!!",
                 "AGH!!!",
-                "AUUGHH!",
+                "AUUUUU!",
                 "AUUGHNN!",
-                "OOAUAUGHHH!",
+                "SZTOPPP!",
                 "NHHGHH!",
                 "KUUURWA!",
                 "OOOWHHG!",
@@ -3802,13 +3802,13 @@
                 "AHHH!!!",
                 "POMOCY!!!",
                 "NGHH!",
-                "AGH...",
+                "AGGG...",
                 "PROSZÃ!!",
                 "PRZESTAŃ!!!",
                 "CHOLERŎ!!!"
             ],
             "fallscream": [
-                "AAAAH!!",
+                "AAAACH!!",
                 "AAAAHHH!",
                 "CHOLERŎ!",
                 "AAAAAAAA!",
@@ -3820,14 +3820,14 @@
                 "OOOOOHHH!",
                 "ŁIIIIAAAA!",
                 "OHH! AHHH!",
-                "OHHHHSSHHH!",
+                "ÔÔÔÔÔÔ!",
                 "KUUUH!?",
                 "COOOO?!",
                 "HEEEEEJ!",
                 "AAHHHHJG!",
-                "AAAAACK!",
-                "AAH!",
-                "AAAAAAAAAAHHH!"
+                "AAAAAK!",
+                "AACH!",
+                "AAAAAAAAAAAAA!"
             ],
             "hitbycreature": [
                 "AAAHHHHH!",
@@ -3853,14 +3853,14 @@
                 "AAAAAAAHHHH!!!!!"
             ],
             "wet": [
-                "Jestech przemoczōny...",
-                "Jestech mokry!",
-                "Jestech całkiem przemoczōny.",
+                "Jestech przemoczōnu...",
+                "Jestech mokru!",
+                "Jestech całkiem przemoczōnu.",
                 "Fuj! Mōm wodã na futrze...",
-                "Jestech taki mokry... Uch...",
-                "Jestech cały w wodzie!",
-                "Jestech WILGOTNY.",
-                "Jestech niekomfortowo mokry...",
+                "Jestech taku mokru... Uch...",
+                "Jestech cału w wodzie!",
+                "Jestech WILGOTNU.",
+                "Jestech niekomfortowo mokru...",
                 "Kapie ze mie woda.",
                 "Nienawidzã tego mokrego uczuciŏ.",
                 "Niy zmoczmy sie następnym razym...",
@@ -3870,7 +3870,7 @@
                 "Zmyjcie tã wodã z moij skōry."
             ],
             "dirty": [
-                "Uch... Jestech taki brudny!",
+                "Uch... Jestech taku brudnu!",
                 "Naprŏwda potrzebujã kōmpieli.",
                 "Jestech cały w błocie.",
                 "Jestech cały upaprany brudem.",
@@ -3887,12 +3887,12 @@
                 "Niy bądźmy AŻ TAK brudni...",
                 "Czas na kōmpiel!",
                 "Jestech pewny, że te kapsuły majōm prisznice... Naprŏwda by mi sie jedyn przidoł.",
-                "Jak żech sie tak ubrudziōł?",
-                "Rany, jestech CAŁY w mazi!",
+                "Jak żech sie tak ubrudziōłu?",
+                "Rany, jestech CAŁU w mazi!",
                 "Moje futro je takie fuj!",
-                "Guh! Jestech całkiem pokryty syfem.",
+                "Guh! Jestech całkiem pokrytu syfem.",
                 "Mōm sadzã w futrze.",
-                "Czujã sie ohydnie brudny. Naprŏwda potrzebujã kōmpieli abo czegoś...",
+                "Czujã sie ohydnie brudnu. Naprŏwda potrzebujã kōmpieli abo czegoś...",
                 "Przidołby sie prisznic!"
             ],
             "encumbered": [
@@ -3922,15 +3922,15 @@
             "drillend": [
                 "...Trocha to trwało.",
                 "Przisiōngōm, że to ustrojstwo niy miało żodnego wyciszyniŏ.",
-                "Całkiem dugŏ jazda...",
+                "Całkiem dugŏ rajza...",
                 "O..? To tyla?"
             ],
             "loud": [
                 "KURWA! Ale to było głośne...",
-                "GAH! Szlag! Moje uszy!",
-                "AHHH! Kurwa... Dzwoni mi w uszach...",
+                "GIZD! Szlag! Moje uszy!",
+                "ACH! Kurwa... Dzwoni mi w uszach...",
                 "CHOLERŎ! ... Ałłćć... To było tak głośne...",
-                "NIY!!! Ja pierdolã, stary... Aghhh, ale hukło..."
+                "NIY!!! Ja fanzolã, stary... Aghhh, ale hukło..."
             ],
             "murderregret": [
                 "Czemu... Czemu żech to zrobiōł..? K-kurwa...",
@@ -3945,7 +3945,7 @@
                 "Hm?",
                 "Wreszcie ktoś...",
                 "...Halo?",
-                "Hej!",
+                "Hejo!",
                 "Cześć!"
             ],
             "tradermeetnormal": [
@@ -3954,7 +3954,7 @@
                 "O! Ktoś wreszcie prziszedł...",
                 "O! Hejka.",
                 "Hej! Dobrze widzieć kogoś żywego.",
-                "Hej, brachu.",
+                "Hej, braciak.",
                 "Witej!"
             ],
             "tradermeetgood": [
@@ -3973,7 +3973,7 @@
                 "Ahhh... Dziynkujã, brachu.",
                 "Mmmh... Łoo, dziynki!",
                 "Ach! Mmhh... Dziynkujã...",
-                "Ło! Aleś miły!",
+                "Ło! Aleś miłu!",
                 "...Dziynkujã, potrzebowołech tego."
             ],
             "traderhugfail": [
@@ -4001,8 +4001,8 @@
                 "Niy ma mowy.",
                 "Niy zainteresowany.",
                 "Co? Czemu miołbych to robić..?",
-                "Meeehhh... Innym razym.",
-                "Meh.",
+                "Eeeeech... Innym razym.",
+                "Ech.",
                 "...Nhh...",
                 "...Uch. Sorki."
             ],
@@ -4011,7 +4011,7 @@
                 "...Ani cześć, ani nic...? Cz... Czemu tak na mie patrzisz...",
                 "...? ...Ym...  ...Halo..? ...Jesteś tam..?",
                 "...Wyglōndŏsz na przerażonego. Wszystko okej? Halo...?",
-                "Hej! Jak sie mŏōōsz......niy wyglōndŏsz najlepiej, brachu... Yym...",
+                "Hej! Jak sie môōŏsz......niy wyglōndŏsz najlepiej, brachu... Yym...",
                 "Hej! ...Co z tym przenikliwym wzrokym? Yym..."
             ],
             "tradergiveitem": [
@@ -4020,11 +4020,11 @@
                 "Dziynkujã!",
                 "Przidŏ mi sie to.",
                 "Ej! Dziynki!",
-                "Dobrze!"
+                "Gryfnie!"
             ],
             "tradergiveitemrefuse": [
-                "Dobra... Styknie na dzisiej, torba mōm całkiem pełnõ.",
-                "Hej, dość prezentōw! Niy chcã rozdać ci całego mojego towaru."
+                "Dobra... Styknie na dzisiej, tasza mōm całkiem pełnõ.",
+                "Hej, dość prezentōw! Niy chcã rozdać ci cołkiego mojego towaru."
             ],
             "traderbuy": [
                 "Prosza bardzo. Na zdrowie!",
@@ -4036,7 +4036,7 @@
             ],
             "traderbuyfail": [
                 "Dej mi jeszcze porã rzeczy.",
-                "Niy idã pierwszy.",
+                "Niy dam pierwszy.",
                 "Dej najpierw jeszcze porã rzeczy.",
                 "Najpierw zapłać!"
             ],
@@ -4048,8 +4048,8 @@
                 "Wyjdź.",
                 "Wyjdź. Terŏz.",
                 "Wynocha! Wyłaź!",
-                "Opuść tã kapsułã.",
-                "Niy podobo mi sie, że tu jesteś. Wyjdź.",
+                "Opuść kapsułã.",
+                "Niy podobo mi sie, żeś tukej. Wyjdź.",
                 "Wyjdź!",
                 "Wynocha.",
                 "Wynocha stōnd!",
@@ -4058,40 +4058,40 @@
                 "Spierdalaj."
             ],
             "tradercombat": [
-                "Mōm dość twoich zagrywek.",
+                "Mōm dość twoich szwidli.",
                 "WYPIERDALAJ!",
                 "MŌM CIE DOŚĆ!",
                 "JEBAĆ CIE!",
                 "WYNOCHA! WYŁAŹ! TERŎZ! WYNOCHA!",
-                "WYŁAŹ!"
+                "PITEJ! PITEJ STOND!"
             ],
             "traderthreatensuccess": [
                 "Dobra, dobra, rany... Bierz co chcesz, ino niy rób mi krzywdy...",
-                "Dupku... Dobra. Śmiało. Proszã wyjść potym.",
+                "Ciulu... Dobra. Śmiało. Proszã wyjść potym.",
                 "Nggh... Jebać cie... Bierz co chcesz i wyłaź!",
                 "Proszã, niy rōb mi krzywdy! Weź coś i... Proszã wyjść...",
                 "...Dobra. Weź coś i niy wracej. Daruj se groźby."
             ],
             "traderlightbreak": [
-                "Stary, co do kurwy? Czemuś to zrobiōł? Spierdalaj.",
-                "...Naprŏwda myślołeś, że tego niy zobŏczã. Ty chuju. Wyłaź!",
+                "Stary, co do jerōna? Czemuś to zrobiōł? Spierdalaj.",
+                "...Naprŏwda myślołeś, że tego niy zobŏczã. Ty ciulu. Wyłaź stond!",
                 "Hej! Co do jasnej! Potrzebowołech tego! Wypierdalaj!",
                 "Ahh! ZŁODZIEJ! Wynocha stōnd!",
                 "Stary. Dobra... Dobra w takim razie. Dobra... Jo... Yy... Proszã wyjść."
             ],
             "traderwakegreet": [
                 "Dzień dobry.",
-                "Hej, już sie obudziłeś.",
+                "Hej, wstołuś już?",
                 "Bry, śpiochu.",
                 "Jak sie spało?",
-                "Mōm nadzieja, żeś sie wyspoł.",
+                "Mōm nadzieja, żeś sie wyspołu.",
                 "Pobudka!"
             ],
             "traderseegun": [
-                "...Łoo stary! Schowej tã brōń, człowieku... Tak czy siak.",
+                "...Łoo stary! Schowej tã brōń, chopie... Tak czy siak.",
                 "Hej! Co z tōm broniōm? Schowej to, proszã. ...Więc.",
                 "Mōm nadzieja, że niy użyjesz tej brōni, haha.",
-                "Ej, jo niy mōm gnatōw, to schowej swój, kolego."
+                "Ej, jo niy mōm gnata, to schowej swojo flinta, kolegu."
             ],
             "tradermeetimpairedspeech": [
                 "...Hę? Co? Mŏsz coś w gymbie? Niy rozumia cie...",
@@ -4099,12 +4099,12 @@
                 "Rozumia, że siedzimy w kiepskiej sytuacyji, ale mógłbyś sie chociaż wysilić, coby godać wyraźnie..."
             ],
             "traderseehurt": [
-                "Skoroś ranny, pozwōlã ci wziōńć bandaż za darmo, jak znojdzesz jakiś na mnie...",
-                "Łoo, jesteś ranny. Jak znojdzesz przy mnie bandaż, bierz go! Niy pamiyntōm, czy mōm...",
+                "Skoroś ranny, pozwōlã ci wziōńć bandaż za darmo, jak mŏm jakiś...",
+                "Łoo, jesteś ranny. Jak znojdzesz przy mnie bandaż, bier go! Niy pamiyntōm, czy mōm...",
                 "Ohh, niy wyglōndŏsz najlepiej... Powiym ci tak: możesz wziōńć bandaż za darmo, jak jaki zobŏczysz."
             ],
             "tradermove": [
-                "O, sorki. Prosza."
+                "O, sorki. Proszã."
             ],
             "tradermovefail": [
                 "Hę? Czemu? Co prōbujesz zrobić..? Niy ufōm ci."
@@ -4114,7 +4114,7 @@
                 "PRZESTAŃ!",
                 "AGH!",
                 "DOSYĆ!",
-                "CHUJU!",
+                "CIULU!",
                 "Przestań!",
                 "AAH!",
                 "NGH!",
@@ -4137,9 +4137,9 @@
                 "Bardzo Dobrze! Dynamika dwa zero dziewiyńć czterdzieści dwa tzy dwa dwa ośym dwa siedym.",
                 "Willa pospiesznie oho! Na nikogo?",
                 "Dobrze! Pewność ktoś sam siebie pilnie!",
-                "Bo tak dziwnie kogo pilnie mu kumpel szczury! Górnik sama prosto na.",
+                "Bo tak dziwnie kogo pilnie mu kumpel szczury! Grubiōrz sama prosto na.",
                 "Rozszerzaj tfuj!",
-                "Podróżuj prawdziwie deflacja poprawa która jedno drugie a?",
+                "Wandruj prawdziwie deflacja richtig kera jedno drugie a?",
                 "Widzã cienie w moich ôczach...",
                 "Kolory wszystkigo... Wszyjsko smakuje źle...",
                 "...C... ...Co... Ta... Tak!",
@@ -4179,7 +4179,7 @@
             ],
             "selfdestruct": [
                 "...Yyychh... ...Co to za pikanie...?",
-                "...O. O. O. O! NIY. NIY NIY NIY. CZAKEJ. CZEMU? CO ŻECH ZROBIŌŁ!?",
+                "...O. O. O. O! NIY. NIY NIY NIY. CZAKEJ. CZYMU? CO ŻECH ZROBIŌŁ!?",
                 "...A-ach... Dobra... N-no to... Ż-żegnejcie, w takim razie..."
             ],
             "wwmr": [
@@ -4194,7 +4194,7 @@
                 "To... Niyma bat....c... C-co to... Robi..?"
             ],
             "cargoimpale": [
-                "AAAGHH! CO DO CHOLERY!? CZEMU?"
+                "AAAGHH! CO DO CHOLERY!? CZYMU?"
             ],
             "cargoimpale2": [
                 "H-hmm... No... Jo... Czujã sie tym... Wzmocniony..? Czujã sie... L-lżejszy."
@@ -4282,16 +4282,16 @@
             ],
             "thirstyresponse": [
                 "Założã sie, że znojdzesz tam trocha wody...",
-                "Ostatnio słyszołech, że bez wody można wytrzymać ino trzi \"dni\", haha..."
+                "Ostatnio słyszoł żech, że bez wody można wytrzymać ino trzi \"dni\", haha..."
             ],
             "sadresponse": [
-                "Hej, spokojnie... Wciōnż żyjesz i dychŏsz, prawda..."
+                "Hej, spokojnie... Wciōnż żyjesz i dychŏsz, pra..."
             ],
             "depressedresponse": [
                 "...Uspokōj sie, proszã... Bydzie dobrze..."
             ],
             "selfharmresponse": [
-                "...Cz-czemu... Zrobiōłeś..."
+                "...Cz-czemu... Zrobiōłuś..."
             ],
             "braindamagedresponse": [
                 "...Niy brzmiesz... Najlepij.",
@@ -4329,7 +4329,7 @@
                 "Nowy grunt.",
                 "Szacowany czas przybyciŏ: zero godzin, zero minut i terŏz.. zero sekund.",
                 "Cóż za nowość. Czas wyruszyć.",
-                "Nie całkiem tak, jak wyobrażołech se na szkoleniu.",
+                "Nie cołkiem tak, jak wyobrażołech sobiy na szkoleniu.",
                 "Trza zachować trzeźwy umysł.",
                 "Osobliwe.",
                 "Fascynujōnce, jeśli nic poza tym.",
@@ -4342,13 +4342,13 @@
                 "To je odpowiednie.",
                 "Dobre.",
                 "Profil szmakowy je dość pociągajōncy.",
-                "Niy zaszkodzi se dogodzić.",
+                "Niy zaszkodzi sobiy dogodzić.",
                 "Preferowane oczyszczenie podniebieniŏ.",
                 "To wystarczy."
             ],
             "eatMediocre": [
                 "Niesatysfakcjonujōnce.",
-                "Czy to naprawda nojlepsza opcyjŏ?",
+                "Czy to naprŏwdy nojlepsza opcyjŏ?",
                 "Równie ekscytujōnce jak oglōndanie schnōncyj farby.",
                 "Jakie nudne..",
                 "Wystarczy jako kalorie.",
@@ -4357,7 +4357,7 @@
                 "Je... w porzōndku.",
                 "Jadalne.",
                 "Skoro to podtrzimuje ciało...",
-                "To powinno przynajmniej trzimać mie na nogach."
+                "Przynajmniej byndzie trzimać mie na nogach."
             ],
             "eatBad": [
                 "Cóż za okropny szmak. Nigdy wiyncyj.",
@@ -6817,7 +6817,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[NADZÓR OPERACYJNY]\n[RAPORT Z INCYDENTU, SPRAWA ID:YVLVH4EB]\n[DOWÓD #54]\n<>\nNiy mogã już tego robić.\nTo, co robimy, je złe. To je zło.\n\nJestech tu jeszcze sprzed incydentu █████████. Kiedyś tak niy było. Terŏz zatrudniajōm ino psychopatów, ale jo niy byłech wcale lepszy. Wykorzystywołech okazy SAW jak wszyscy inni. Postępy, jakie robiliśmy, były tak łatwe, że aż odurzajōnce. Wmawiołech se, że to dla dobra ludzkości, że one niy sōm takie jak my.<>\n\nPrzydzielōno mi SAW-01 do długoterminowych testów implantów. Na początku byłech chłodny, ale dla niego to była najlepsza część dnia. Nigdy niy narzekoł. Musioł minąć rok. Rozmowy podczas badań powoli stały sie normalne. Wymyślołech powody, coby poszerzać próby. Nawet niy wiedziołech, że Eksperymenty potrafiōm sie uśmiechać, aż do wtedy. Niy były za bystre, ale zaczęły pōmŏgać mi w biurze.<>\n\nPracowołech z nim czternoście lat. Potym zabrali go ode mie. Rozciągnōłech już badania tak daleko, jak mogłech. Starałech sie, naprawda sie starałech. Siedziałech w biurze, odświeżajōnc rejestr SAW w kōłko, aż to sie stało. Status jego ID zmienił sie na zmarły. Całe człowieczeństwo, kere tłumiłech, rozerwało mie jak mściwy duch i zniszczyło.<>\n\nW tym EPDA znojdziesz wszystkie dowody potrzebne do obalyniŏ tej firmy.  \nModlã sie, coby to zadziałało i trefiło w rynce prasy.\n\nTak bardzo cie przepraszōm, Mason.\nTak strasznie przepraszōm...\n<>\n> AKTUALIZACJA STATUSU SPRAWY: <>ROZWIĄZANA",
+            "Item1": "[NADZÓR OPERACYJNY]\n[RAPORT Z INCYDENTU, SPRAWA ID:YVLVH4EB]\n[DOWÓD #54]\n<>\nNiy mogã już tego robić.\nTo, co robimy, je złe. To je zło.\n\nJestech tu jeszcze sprzed incydentu █████████. Kiedyś tak niy było. Terŏz zatrudniajōm ino psychopatów, ale jo niy byłech wcale lepszy. Wykorzystywołech okazy SAW jak wszyscy inni. Postępy, jakie robiliśmy, były tak łatwe, że aż odurzajōnce. Wmawiołech se, że to dla dobra ludzkości, że one niy sōm takie jak my.<>\n\nPrzydzielōno mi SAW-01 do długoterminowych testów implantów. Na początku byłech chłodny, ale dla niego to była najlepsza część dnia. Nigdy niy narzekoł. Musioł minąć rok. Rozmowy podczas badań poleku stały sie normalne. Wymyślołech powody, coby poszerzać próby. Nawet niy wiedziołech, że Eksperymenty potrafiōm sie uśmiechać, aż do wtedy. Niy były za bystre, ale zaczęły pōmŏgać mi w biurze.<>\n\nPracowołech z nim czternoście lat. Potym zabrali go ode mie. Rozciągnōłech już badania tak daleko, jak mogłech. Starałech sie, naprawda sie starałech. Siedziałech w biurze, odświeżajōnc rejestr SAW w kōłko, aż to sie stało. Status jego ID zmienił sie na zmarły. Całe człowieczeństwo, kere tłumiłech, rozerwało mie jak mściwy duch i zniszczyło.<>\n\nW tym EPDA znojdziesz wszystkie dowody potrzebne do obalyniŏ tej firmy.  \nModlã sie, coby to zadziałało i trefiło w rynce prasy.\n\nTak bardzo cie przepraszōm, Mason.\nTak strasznie przepraszōm...\n<>\n> AKTUALIZACJA STATUSU SPRAWY: <>ROZWIĄZANA",
             "Item2": ""
         },
         {
